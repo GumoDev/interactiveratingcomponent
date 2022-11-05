@@ -43,7 +43,7 @@
 
     <section id="rating-card" class="
     text-white rounded-3xl p-5 bg-DarkBlue-DarkBlue w-full max-w-[330px] min-h-[350px] 
-    md:w-[450px] md:h-[450px] md:p-7 ">
+    md:min-w-[450px] md:h-[450px] md:p-7 ">
 
       <figure class="bg-[#29333a] w-10 h-10 md:w-14 md:h-14 rounded-full grid place-content-center">
         <img src="../src/assets/icon-star.svg" alt="icon star">
@@ -81,9 +81,9 @@
 
     <section id="thanks-card" class="
     flex-col items-center hidden
-    text-white rounded-3xl p-5 bg-DarkBlue-DarkBlue w-[330px] min-h-[330px] 
+    text-white rounded-3xl p-5 bg-DarkBlue-DarkBlue max-w-[330px] min-h-[330px] 
      
-    md:w-[450px] md:h-[450px] md:p-7">
+    md:max-w-[450px] md:h-[450px] md:p-7">
       <figure class="my-2 md:my-5 ">
         <img class="h-20 md:h-auto" src="../src/assets/illustration-thank-you.svg" alt="ilustration-thank-you">
       </figure>
