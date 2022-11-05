@@ -39,9 +39,9 @@
 
 <template>
 
-  <section class="bg-VeryDarkBlue-VeryDarkBlue min-h-screen flex flex-col justify-center items-center">
+  <main class="bg-VeryDarkBlue-VeryDarkBlue min-h-screen flex flex-col justify-center items-center">
 
-    <div id="rating-card" class="
+    <section id="rating-card" class="
     text-white rounded-3xl p-5 bg-DarkBlue-DarkBlue w-[330px] min-h-[350px] 
     md:w-[450px] md:h-[450px] md:p-7 ">
 
@@ -77,9 +77,9 @@
         Submit
       </button>
 
-    </div>
+    </section>
 
-    <div id="thanks-card" class="
+    <section id="thanks-card" class="
     flex-col items-center hidden
     text-white rounded-3xl p-5 bg-DarkBlue-DarkBlue w-[330px] min-h-[330px] 
      
@@ -96,13 +96,13 @@
         If you ever need more support, don’t <br class=" flex md:hidden"> hesitate to <br class="hidden md:flex"> 
         get in touch!
       </p>
-    </div>
+    </section>
 
     <footer class="attribution text-white">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
       Coded by <a href="https://github.com/GumoDev">GumoDev</a>.
     </footer>
-  </section>
+  </main>
 </template>
 
 <style scoped>
