@@ -53,7 +53,7 @@
         How did we do?
       </h1>
 
-      <p class="text-[.9rem] md:text-md opacity-60">
+      <p class="text-[.9rem] md:text-lg opacity-60">
         Please let us know how we did with your <br> 
         support <br class="hidden"> request. All feedback is appreciated <br> to help us <br class="hidden">
         improve our offering!
@@ -100,7 +100,7 @@
 
     <footer class="attribution text-white">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-      Coded by <a href="#">GumoDev</a>.
+      Coded by <a href="https://github.com/GumoDev">GumoDev</a>.
     </footer>
   </section>
 </template>
