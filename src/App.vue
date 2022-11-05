@@ -42,7 +42,7 @@
   <main class="bg-VeryDarkBlue-VeryDarkBlue min-h-screen flex flex-col justify-center items-center">
 
     <section id="rating-card" class="
-    text-white rounded-3xl p-5 bg-DarkBlue-DarkBlue w-[330px] min-h-[350px] 
+    text-white rounded-3xl p-5 bg-DarkBlue-DarkBlue max-w-[330px] min-h-[350px] 
     md:w-[450px] md:h-[450px] md:p-7 ">
 
       <figure class="bg-[#29333a] w-10 h-10 md:w-14 md:h-14 rounded-full grid place-content-center">
