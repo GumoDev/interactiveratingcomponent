@@ -8,7 +8,7 @@ This is a solution to the [Interactive Rating Component on Frontend Mentor]. Fro
 ### Links
 
 - Solution URL: [CODE Repo](https://github.com/GumoDev/interactiveratingcomponent)
-- Live Site URL: [Live Site Demo](https://gumodev.github.io/productpreviewcardcomponent/)
+- Live Site URL: [Live Site Demo](https://gumodev.github.io/interactiveratingcomponent/)
 
 ### Built with
 
